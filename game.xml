@@ -1,0 +1,18 @@
+<gameobjects>
+	<unit type="melee">
+		<name>Soldier</name>
+		<cost>
+			<gold>100</gold>
+			<food>100</food>
+			<wood>25</wood>
+		</cost>
+	</unit>
+	<unit type="ranged">
+		<name>Archer</name>
+		<cost>
+			<gold>75</gold>
+			<food>100</food>
+			<wood>75</wood>
+		</cost>
+	</unit>
+</gameobjects>
